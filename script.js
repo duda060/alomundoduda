@@ -4,3 +4,20 @@ let nomeUsuario = prompt("Qual o seu nome");
    console.log(elemento);
    elemento.textContent = nomeUsuario;
 }
+
+const lista = document.quenySelector('#lista');
+
+lista.textCtent = linguagens[0];
+lista.textCnt = linguagens[1];
+lista.textCntent = linguagens[2];
+
+let aluno1 = {
+   nome: 'Maria Eduarda',
+   idade:18,
+   anoLetivo:'Ensino Médio',
+   materiasFavoritas:['Edução Fisíca','Programação','' Português']
+}
+console.log(aluno1.nome);
+console.log(aluno1.idade);
+console.log(aluno1.materiasFavoritas);
+console.log(aluno1.materiasFavoritas(1);
