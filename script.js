@@ -20,7 +20,7 @@ let aluno1 = {
 console.log(aluno1.nome);
 console.log(aluno1.idade);
 console.log(aluno1.materiasFavoritas);
-console.log(aluno1.materiasFavoritas(1);
+console.log(aluno1.materiasFavoritas[1]);
 
 const objeto = document.querySelector('#aluno');
 objeto.textcontent = aluno1.nome;
